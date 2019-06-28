@@ -8,3 +8,4 @@
 # 首页
 ![Image text](https://raw.githubusercontent.com/jun662646/ccss/master/%E9%A6%96%E9%A1%B5.jpg)
 # 功能页
+![Image text](https://raw.githubusercontent.com/jun662646/ccss/master/%E5%8A%9F%E8%83%BD%E9%A1%B5.jpg)
